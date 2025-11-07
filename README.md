@@ -13,6 +13,17 @@ MATLAB implementation of **Superposed IM-OFDM (S-IM-OFDM)** - an enhanced OFDM w
 **Authors:** Zonghui Yang, Shijian Gao, Xiang Cheng, Liuqing Yang  
 **Journal:** IEEE Transactions on Vehicular Technology  
 **Year:** 2024 | **Volume:** 73 | **Issue:** 10 | **Pages:** 15832-15836
+**Citatiob:** 
+@ARTICLE{10559944,
+  author={Yang, Zonghui and Gao, Shijian and Cheng, Xiang and Yang, Liuqing},
+  journal={IEEE Transactions on Vehicular Technology}, 
+  title={Superposed IM-OFDM (S-IM-OFDM): An Enhanced OFDM for Integrated Sensing and Communications}, 
+  year={2024},
+  volume={73},
+  number={10},
+  pages={15832-15836},
+  doi={10.1109/TVT.2024.3412213}
+}
 
 ## 🚀 Key Features
 
@@ -29,20 +40,11 @@ MATLAB implementation of **Superposed IM-OFDM (S-IM-OFDM)** - an enhanced OFDM w
 
 ### Run Simulations
 ```matlab
-% Sensing performance
-main_sensing;
-
 % Communication performance  
-main_communication;
+BER_waveform.m;
 
-## 📖 Citation
-@ARTICLE{10559944,
-  author={Yang, Zonghui and Gao, Shijian and Cheng, Xiang and Yang, Liuqing},
-  journal={IEEE Transactions on Vehicular Technology}, 
-  title={Superposed IM-OFDM (S-IM-OFDM): An Enhanced OFDM for Integrated Sensing and Communications}, 
-  year={2024},
-  volume={73},
-  number={10},
-  pages={15832-15836},
-  doi={10.1109/TVT.2024.3412213}
-}
+% Sensing performance
+RMSE_waveform.m;
+
+
+
