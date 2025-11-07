@@ -14,7 +14,7 @@ MATLAB implementation of **Superposed IM-OFDM (S-IM-OFDM)** - an enhanced OFDM w
 **Journal:** IEEE Transactions on Vehicular Technology  
 **Year:** 2024 | **Volume:** 73 | **Issue:** 10 | **Pages:** 15832-15836
 **Citation:** 
-```matlab
+```txt
 @ARTICLE{10559944,
   author={Yang, Zonghui and Gao, Shijian and Cheng, Xiang and Yang, Liuqing},
   journal={IEEE Transactions on Vehicular Technology}, 
