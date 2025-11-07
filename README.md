@@ -12,7 +12,7 @@ MATLAB implementation of **Superposed IM-OFDM (S-IM-OFDM)** - an enhanced OFDM w
 **Title:** Superposed IM-OFDM (S-IM-OFDM): An Enhanced OFDM for Integrated Sensing and Communications  
 **Authors:** Zonghui Yang, Shijian Gao, Xiang Cheng, Liuqing Yang  
 **Journal:** IEEE Transactions on Vehicular Technology  
-**Year:** 2024 | **Volume:** 73 | **Issue:** 10 | **Pages:** 15832-15836
+**Year:** 2024 | **Volume:** 73 | **Issue:** 10 | **Pages:** 15832-15836 | 
 **Citation:** 
 ```txt
 @ARTICLE{10559944,
