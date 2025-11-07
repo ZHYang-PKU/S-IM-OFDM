@@ -43,7 +43,7 @@ MATLAB implementation of **Superposed IM-OFDM (S-IM-OFDM)** - an enhanced OFDM w
 ### Run Simulations
 ```matlab
 % Communication performance  
-BER_waveform.m;
+BER_SIMOFDM.m;
 
 % Sensing performance
 RMSE_waveform.m;
